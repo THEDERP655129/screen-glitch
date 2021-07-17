@@ -1,0 +1,1 @@
+# screen-glitch is a program that I made to make it look like your screen is glitching. this is not harmful and is only used for people who want to prank their friends. you can use parts of the code for this to make your own, or just copy it all, idc. have fun!
